@@ -1,0 +1,31 @@
+# Archivos de caché y compilación de Gradle
+.gradle/
+build/
+
+# Archivos de configuración local (rutas de SDK, etc.)
+local.properties
+
+# Archivos de log y temporales
+*.log
+
+# Archivos y carpetas generados por Android Studio / Build
+captures/
+.externalNativeBuild/
+.cxx/
+*.aab
+*.apk
+output-metadata.json
+
+# Configuración de IntelliJ / Android Studio
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Claves y Keystores (Seguridad)
+*.jks
+*.keystore
+
+# Archivos de servicios de Google (Firebase / APIs)
+google-services.json
